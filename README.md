@@ -18,7 +18,7 @@ They are designed to be read, forked, and adapted. Nothing here is theoretical.
 
 ### `CONTEXT.md` — A real context file
 
-This is a complete example of the artifact that replaces the PRD in the agentic development model. It was built for a real feature: a high-value asset inventory system for a fulfillment center.
+This is a complete example of the artifact that replaces the PRD in the agentic development model. It was built based on a real feature: an inventory system for a fulfillment center.
 
 It is not a requirements document. It is not a user story. It is a machine-executable brief — structured so that multiple engineers can each build an independent version of the same feature from this single document, without coordinating, and without inventing answers to fill gaps.
 
